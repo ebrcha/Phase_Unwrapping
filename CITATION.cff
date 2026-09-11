@@ -1,1 +1,10 @@
-
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Chalangar"
+  given-names: "Ebrahim"
+  orcid: "https://orcid.org/0000-0002-6850-1552"
+title: "Phase_Unwrapping"
+version: 1.0.0
+date-released: 2026-09-11
+url: "https://github.com/ebrcha/Phase_Unwrapping"
